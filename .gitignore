@@ -1,5 +1,6 @@
-# JetBrains
+# IDEs and editors
 .idea
+.vscode
 
 # Packaging
 *.egg-info
