@@ -1,4 +1,4 @@
 import pytest
 
 def tests():
-    assert __version__ == "0.0.0"
+    assert __version__ == "0.0.1"
